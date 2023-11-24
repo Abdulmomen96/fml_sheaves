@@ -1,7 +1,10 @@
-**.npy
-.npy
+*.npy
+**/*.npy
 
 
 *.csv
-**.csv
+**/*.csv
 
+*.gz
+
+**/*.gz
